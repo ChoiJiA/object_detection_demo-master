@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Human_hand</folder>
+  <filename>ba6a7442f99244aa.jpg</filename>
+  <path>C:\PycharmProjects\OIDv4_ToolKit\OID\Dataset\train\Human_hand\ba6a7442f99244aa.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>701</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Human_hand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>459</xmin>
+      <ymin>362</ymin>
+      <xmax>777</xmax>
+      <ymax>606</ymax>
+    </bndbox>
+  </object>
+</annotation>
